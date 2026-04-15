@@ -24,7 +24,7 @@ AI 驱动的轻量级 Markdown 编辑器。
 
 ## 推荐 AI 模型
 
-Gemini mimo v2 flash（`gemini-2.5-flash`）— 免费额度充裕，响应快。
+xiaomi mimo v2 flash
 
 ## 反馈
 
