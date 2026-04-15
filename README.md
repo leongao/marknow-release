@@ -9,7 +9,7 @@ AI 驱动的轻量级 Markdown 编辑器。
 ## 功能
 
 - Markdown 实时语法高亮 + 代码块背景
-- 内置 AI 助手（支持 Gemini / OpenAI / Claude）
+- 内置 AI 助手（支持 Gemini / OpenAI / Claude / XiaomiMimo）
 - `@Ai` 行内提问（回车触发）
 - 选中文本多轮讨论
 - RAG 记忆库 — 本地 TF-IDF 索引，跨笔记上下文检索
