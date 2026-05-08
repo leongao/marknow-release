@@ -10,7 +10,7 @@ AI 驱动的轻量级 Markdown 编辑器。
 
 - Markdown 实时语法高亮 + 代码块背景
 - 内置 AI 助手（支持 Gemini / OpenAI / Claude / XiaomiMimo）
-- `@Ai` 行内提问（回车触发）
+- `@ai ` 行内提问（空格触发）
 - 选中文本多轮讨论
 - RAG 记忆库 — 本地 TF-IDF 索引，跨笔记上下文检索
 - Mermaid 图表实时预览
@@ -18,13 +18,13 @@ AI 驱动的轻量级 Markdown 编辑器。
 
 ## 安装
 
-下载 `marknow.dmg`，打开后将 marknow 拖入 Applications 文件夹即可。
+下载最新的 `marknow-macos-*.dmg`，打开后将 marknow 拖入 Applications 文件夹即可。
 
 已完成 Apple Developer ID 签名 + 公证，macOS 不会弹出安全警告。
 
 ## 推荐 AI 模型
 
-xiaomi mimo v2 flash
+Xiaomi MiMo v2 flash
 
 ## 反馈
 
