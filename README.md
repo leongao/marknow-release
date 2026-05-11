@@ -6,6 +6,12 @@ AI 驱动的轻量级 Markdown 编辑器。
 
 前往 [Releases](https://github.com/leongao/marknow-release/releases) 页面下载最新版本的 DMG 安装包。
 
+当前版本：
+
+- 安装包：`marknow-macos-20260511-150545.dmg`
+- SHA256：`d443f60a94bd48d896a6d1cb595a957bc3e82e0e54e971e9b1f60945e34303fb`
+- 签名与公证：Apple Developer ID 签名，Notarization Accepted，Gatekeeper 验证通过
+
 ## 功能
 
 - Markdown 实时语法高亮 + 代码块背景
