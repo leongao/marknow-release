@@ -8,9 +8,10 @@ AI 驱动的轻量级 Markdown 编辑器。
 
 当前版本：
 
-- 安装包：`marknow-macos-20260511-150545.dmg`
-- SHA256：`d443f60a94bd48d896a6d1cb595a957bc3e82e0e54e971e9b1f60945e34303fb`
-- 签名与公证：Apple Developer ID 签名，Notarization Accepted，Gatekeeper 验证通过
+- 版本：`v0.1.6-beta`
+- 安装包：`marknow-macos-20260514-230640.dmg`
+- SHA256：`842cbbcd19356c7dab752f4979d25e267568b6e1995512f5d4a0576a435489a4`
+- 签名状态：Apple Developer ID 签名；当前构建尚未完成 Notarization / Staple
 
 ## 功能
 
@@ -26,7 +27,7 @@ AI 驱动的轻量级 Markdown 编辑器。
 
 下载最新的 `marknow-macos-*.dmg`，打开后将 marknow 拖入 Applications 文件夹即可。
 
-已完成 Apple Developer ID 签名 + 公证，macOS 不会弹出安全警告。
+当前安装包已完成 Apple Developer ID 签名。由于本次构建尚未完成 Notarization / Staple，如 macOS 安全策略拦截，请以 SHA256 校验值为准后再手动打开。
 
 ## 推荐 AI 模型
 
